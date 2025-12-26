@@ -1,1 +1,1 @@
-# SyncTwice
+# Sync-Twice
